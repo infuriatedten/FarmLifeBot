@@ -17,3 +17,10 @@ This is a discord bot used in the `FarmLife` FS community.
   - To file (/var/log/bot/command.log)
   - To channel ()
   - Error logs to File (/var/log/bot/error.log)
+
+
+  -Database
+    -usernamee(ID)
+  -username (join date)
+  -username (refence (if any))
+   
