@@ -15,7 +15,7 @@ This is a discord bot used in the `FarmLife` FS community.
 - More Coming soon
 - Log every command run
   - To file (/var/log/bot/command.log)
-  - To channel ()
+  - To channel (1311879601403990186)
   - Error logs to File (/var/log/bot/error.log)
 
 
